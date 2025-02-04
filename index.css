@@ -302,11 +302,14 @@ color: #ffffff;
     size: 14px;
     line-height: 21px;
 }
-/* @media screen and (max-width: 1024px){
+@media screen and (max-widt: 460px){
     .parentdiv{
         display: none;
     }
-} */
+    .boss{
+        width: 100%;
+    }
+}
 
 
 
