@@ -302,7 +302,7 @@ color: #ffffff;
     size: 14px;
     line-height: 21px;
 }
-@media screen and (max-widt: 460px){
+@media screen and (max-widt: 500px){
     .parentdiv{
         display: none;
     }
